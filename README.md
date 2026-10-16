@@ -4,7 +4,7 @@
 
 Sistema de agendamento para consultórios e profissionais autônomos: o cliente escolhe o horário e agenda em poucos cliques, e a profissional gerencia agenda, clientes e financeiro num painel só.
 
-🔗 **Demo ao vivo:** https://SEU-LINK.vercel.app
+🔗 **Demo ao vivo:** https://agenda-eta-three.vercel.app
 
 🧩 **API (backend):** https://github.com/araujohjessica/agenda-api
 
