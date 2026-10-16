@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.vite/
+*.tsbuildinfo
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store
+AGENTS.md
+CLAUDE.md
+.figma/*
+!.figma/make/
+.figma/make/*
+!.figma/make/site.json

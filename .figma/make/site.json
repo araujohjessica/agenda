@@ -1,0 +1,10 @@
+{
+  "description": "Streamline appointment scheduling with a modern, user-friendly platform offering admin controls for managing availability and client access via email codes.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
